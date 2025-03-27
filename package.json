@@ -1,0 +1,23 @@
+{
+  "name": "exam-group-h-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikyllatherese/exam-group-h-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikyllatherese/exam-group-h-api/issues"
+  },
+  "homepage": "https://github.com/mikyllatherese/exam-group-h-api#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
